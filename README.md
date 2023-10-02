@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Order.fm](https://order.fm/)
 - 🌱 I’m currently learning TypeScript & Next.js.
-- 📫 How to reach me: [mo3ly.me@gmail.com]
+- 📫 How to reach me: mo3ly.me@gmail.com
 
 ## 🔧 Technologies & Tools
 
