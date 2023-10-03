@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 -->
-### Hello, I'm Mohamed Aly 👋
+<h3 align="left">Hello, I'm Mohamed Aly 👋</h3>
 
 <!--
 ## 🌱 I'm a Developer, Learner, and Thinker!
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning TypeScript & Next.js.
 - 📫 How to reach me: mo3ly.me@gmail.com
 
-### 🔧 Technologies & Tools
+<h3 align="left">🔧 &nbsp;Technologies & Tools</h3>
 
 <!--
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -57,7 +57,7 @@
 </p>
 </div>
 -->
-### 🤝🏻 &nbsp;Connect with me!
+<h3 align="left">🤝🏻 &nbsp;Connect with me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mo3ly"><img src="https://img.shields.io/badge/Mohamed%20Aly-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mo3ly.me@gmail.com"><img src="https://img.shields.io/badge/mo3y.me@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
