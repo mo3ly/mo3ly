@@ -50,13 +50,13 @@
 ## 📈 GitHub Stats
 
 ![Mo3ly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo3ly&show_icons=true&theme=transparent)
--->
+
 <div align="center">
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mo3ly&theme=github-dark-blue&hide_border=true" alt="Github streak" />
 </p>
 </div>
-
+-->
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/mo3ly"><img src="https://img.shields.io/badge/Mohamed%20Aly-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
