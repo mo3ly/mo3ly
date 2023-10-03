@@ -57,7 +57,7 @@
 </p>
 </div>
 -->
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with me!
 <p align="left">
 <a href="https://linkedin.com/in/mo3ly"><img src="https://img.shields.io/badge/Mohamed%20Aly-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mo3ly.me@gmail.com"><img src="https://img.shields.io/badge/mo3y.me@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
