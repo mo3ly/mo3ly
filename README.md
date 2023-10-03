@@ -1,28 +1,18 @@
 <!--
-### Hello, I'm [Mohamed Aly] 👋
-
-**mo3ly/mo3ly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there 👋
+-->
+### Hello, I'm Mohamed Aly 👋
 
+<!--
 ## 🌱 I'm a Developer, Learner, and Thinker!
-
+-->
+- 📍 Based in Leicester, United Kingdom. From Giza, Egypt.
+- 🎓 Pursuing a MSc Advanced Computer Science degree at University of Essex.
 - 🔭 I’m currently working on [Order.fm](https://order.fm/)
 - 🌱 I’m currently learning TypeScript & Next.js.
 - 📫 How to reach me: mo3ly.me@gmail.com
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
@@ -37,7 +27,9 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+
+<!--
 ## 📈 GitHub Stats
 
 ![Mo3ly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo3ly&show_icons=true&theme=transparent)
-
+-->
