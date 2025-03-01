@@ -6,11 +6,11 @@
 <!--
 ## 🌱 I'm a Developer, Learner, and Thinker!
 -->
-- 📍 Based in Leicester, United Kingdom. From Giza, Egypt.
+- 📍 Based in Doha, Qatar. From Giza, Egypt.
 - 🎓 Pursuing a MSc Advanced Computer Science degree at University of Essex.
 - 🔭 I’m currently working on [Order.fm](https://order.fm/)
 - 🌱 I’m currently learning TypeScript & Next.js.
-- 📫 How to reach me: mo3ly.me@gmail.com
+- 📫 How to reach me: mattya.dev@gmail.com
 
 <h3 align="left">🔧 &nbsp;Technologies & Tools</h3>
 
