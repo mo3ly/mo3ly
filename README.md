@@ -73,7 +73,7 @@
 <h3 align="left">🤝🏻 &nbsp;Connect with me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mo3ly"><img src="https://img.shields.io/badge/Mohamed%20Aly-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mo3ly.me@gmail.com"><img src="https://img.shields.io/badge/mo3ly.me@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mattya.dev@gmail.com"><img src="https://img.shields.io/badge/mattya.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
   <!--
 <a href="https://instagram.com/mo3lyy"><img src="https://img.shields.io/badge/mo3lyy-000000?style=flat&logo=Instagram&logoColor=white"/></a> -->
